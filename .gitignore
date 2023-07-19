@@ -1,3 +1,4 @@
 .env
+secretes.toml
 
 dockers/data/
